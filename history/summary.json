@@ -4,9 +4,9 @@
     "url": "https://desirable.app",
     "icon": "https://desirable.app/favicon.ico",
     "slug": "desirable-web-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 2653,
     "timeMonth": 2653,
     "timeYear": 2653,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-09": 0
+    }
   },
   {
     "name": "API Service",
@@ -34,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-09": 30,
+      "2026-01-09": 1164,
       "2026-01-08": 1440,
       "2026-01-07": 1145
     }
@@ -56,7 +58,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-09": 30,
+      "2026-01-09": 1164,
       "2026-01-08": 1440,
       "2026-01-07": 1145
     }
@@ -78,7 +80,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-09": 30,
+      "2026-01-09": 1164,
       "2026-01-08": 1440,
       "2026-01-07": 1145
     }
