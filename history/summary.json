@@ -4,19 +4,19 @@
     "url": "https://desirable.app",
     "icon": "https://desirable.app/favicon.ico",
     "slug": "desirable-web-app",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2676,
-    "timeDay": 2061,
-    "timeWeek": 2676,
-    "timeMonth": 2676,
-    "timeYear": 2676,
+    "status": "up",
+    "uptime": "99.76%",
+    "uptimeDay": "98.97%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.76%",
+    "time": 2731,
+    "timeDay": 2559,
+    "timeWeek": 2731,
+    "timeMonth": 2731,
+    "timeYear": 2731,
     "dailyMinutesDown": {
-      "2026-01-11": 0
+      "2026-01-11": 15
     }
   },
   {
@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-11": 721,
+      "2026-01-11": 736,
       "2026-01-10": 1440,
       "2026-01-09": 1440,
       "2026-01-08": 1440,
@@ -60,7 +60,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-11": 721,
+      "2026-01-11": 736,
       "2026-01-10": 1440,
       "2026-01-09": 1440,
       "2026-01-08": 1440,
@@ -84,7 +84,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-11": 721,
+      "2026-01-11": 736,
       "2026-01-10": 1440,
       "2026-01-09": 1440,
       "2026-01-08": 1440,
