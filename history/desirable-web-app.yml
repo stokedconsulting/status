@@ -1,7 +1,7 @@
 url: https://desirable.app
-status: up
-code: 200
-responseTime: 2841
-lastUpdated: 2026-03-05T23:24:42.960Z
+status: down
+code: 503
+responseTime: 5321
+lastUpdated: 2026-03-06T03:32:54.397Z
 startTime: 2026-01-07T04:54:30.677Z
 generator: Upptime <https://github.com/upptime/upptime>
