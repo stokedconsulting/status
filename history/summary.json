@@ -4,9 +4,9 @@
     "url": "https://desirable.app",
     "icon": "https://desirable.app/favicon.ico",
     "slug": "desirable-web-app",
-    "status": "up",
+    "status": "down",
     "uptime": "98.76%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "98.40%",
     "uptimeMonth": "98.04%",
     "uptimeYear": "98.76%",
@@ -16,6 +16,7 @@
     "timeMonth": 3040,
     "timeYear": 2857,
     "dailyMinutesDown": {
+      "2026-04-21": 0,
       "2026-04-18": 24,
       "2026-04-17": 78,
       "2026-04-15": 58,
@@ -68,7 +69,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-21": 47,
+      "2026-04-21": 345,
       "2026-04-20": 1440,
       "2026-04-19": 1440,
       "2026-04-18": 1440,
@@ -192,7 +193,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-21": 47,
+      "2026-04-21": 345,
       "2026-04-20": 1440,
       "2026-04-19": 1440,
       "2026-04-18": 1440,
@@ -316,7 +317,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-21": 47,
+      "2026-04-21": 345,
       "2026-04-20": 1440,
       "2026-04-19": 1440,
       "2026-04-18": 1440,
